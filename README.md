@@ -4,13 +4,7 @@
 
 1. Edit `server/db/pool.js` and update the user and password fields to match your local Postgres setup (On macOS you may be able to delete those fields entirely)
 
-2. Copy `.env.template` to `.env` and fill in a `SESSION_SECRET` value:
-
-```sh
-cp server/.env.template server/.env
-```
-
-3. Run these commands to set up the database, seed, and start the server:
+2. Run these commands to set up the database, seed, and start the server:
 
 ```sh
 cd server
