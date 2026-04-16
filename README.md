@@ -1,4 +1,4 @@
-# 6-11-authorization-middleware
+# 6-12-adding-user-owned-resources
 
 ## Setup
 
